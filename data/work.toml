@@ -1,0 +1,33 @@
+# Section title
+title = "Portfolio"
+
+[[projects]]
+    name = "Maps"
+    folder = "proj-1"
+
+[[projects]]
+    name = "Web Maps"
+    folder = "proj-2"
+
+[[projects]]
+    name = "Graphics"
+    folder = "proj-3"
+
+[[projects]]
+    name = "Resume"
+    folder = "proj-4"
+
+#[[projects]]
+#    name = "Fresh It Up"
+#    folder = "proj-5"
+
+#[[projects]]
+#    name = "Timeline Page"
+#    folder = "proj-6"
+
+#[[projects]]
+#    name = "Weather Dashboard"
+#    folder = "proj-7"
+#[[projects]]
+#    name = "Stripes & Co"
+#    folder = "proj-8"
