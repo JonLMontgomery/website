@@ -510,7 +510,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.14; }
 
 .bigger, h3 {
-  font-size: 26px;
+  font-size: 24px;
   line-height: 1.38; }
 
 .big, h4 {
@@ -582,7 +582,7 @@ svg {
 h3 {
   color: #e1c285;
   text-align: center;
-  padding: 100px 0 30px; }
+  padding: 10px 0 30px; }
 
 fieldset {
   padding: 0;
@@ -593,7 +593,7 @@ fieldset {
   h3 {
     padding: 50px 0 50px; } }
 .alt-section {
-  background: #e5eaee;
+  background: #ffffff;
   padding-bottom: 100px; }
   .alt-section h3 {
     color: #d7ae5c; }
@@ -726,7 +726,7 @@ footer {
   .face-lockup [class^="icon-"] {
     height: 100px;
     width: 100px;
-    background: #e5eaee;
+    background: #ffffff;
     border-radius: 50%; }
     .face-lockup [class^="icon-"] path {
       fill: #c99065; }
@@ -780,7 +780,7 @@ footer {
   max-width: 620px;
   padding: 0 20px;
   margin: 50px auto;
-  font-size: 24px;
+  font-size: 16px;
   text-align: center;
   font-weight: 300; }
 
@@ -815,7 +815,7 @@ footer {
         margin: 2px; }
 
 .skill-lockup .skill-icons.skill-1 span:nth-child(n+2), .skill-lockup .skill-icons.skill-2 span:nth-child(n+3), .skill-lockup .skill-icons.skill-3 span:nth-child(n+4), .skill-lockup .skill-icons.skill-4 span:nth-child(n+5), .skill-lockup .skill-icons.skill-5 span:nth-child(n+6), .skill-lockup .skill-icons.skill-6 span:nth-child(n+7), .skill-lockup .skill-icons.skill-7 span:nth-child(n+8), .skill-lockup .skill-icons.skill-8 span:nth-child(n+9), .skill-lockup .skill-icons.skill-9 span:nth-child(n+10), .skill-lockup .skill-icons.skill-10 span:nth-child(n+11) {
-  background: #e5eaee; }
+  background: #ffffff; }
 
 @media screen and (max-width: 541px) {
   .skill-lockup {
@@ -840,19 +840,7 @@ footer {
 
 #proj-4:checked ~ .work-belt .work-wrap .work-container noscript #content-proj-4 {
   display: block; }
-
-#proj-5:checked ~ .work-belt .work-wrap .work-container noscript #content-proj-5 {
-  display: block; }
-
-#proj-6:checked ~ .work-belt .work-wrap .work-container noscript #content-proj-6 {
-  display: block; }
-
-#proj-7:checked ~ .work-belt .work-wrap .work-container noscript #content-proj-7 {
-  display: block; }
-
-#proj-8:checked ~ .work-belt .work-wrap .work-container noscript #content-proj-8 {
-  display: block; }
-
+  
 .return {
   display: none; }
 
@@ -1218,10 +1206,10 @@ footer {
 
 .biglink {
   display: inline-block;
-  font-size: 72px;
-  font-weight: 300;
+  font-size: 50px;
+  font-weight: 200;
   line-height: 1;
-  width: 90%;
+  width: 60%;
   margin: 0 auto; }
 
 form {

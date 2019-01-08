@@ -43,7 +43,7 @@ theme = "hugo-artists-theme"
 	# Replace the 'avatar.jpg' under 'static/img' with your own image.
 	[params.about]
 		title = "About me"
-		bio = "**Travis specializes in making things** for human people. Most of the things he makes are [digital interfaces](//travisneilson.com/), but he also puts effort into crafting [next-level beats](//soundcloud.com/travis-neilson) and [YouTube videos](//youtube.com/user/devtipsfordesigners) about making codes happen."
+		bio = "A Wisconsin native, who now calls Santa Barbara home, I'm a GIS Analyst with over 5 years of experience in Spatial Analysis, Cartography, Conservation, and Environmental Science. I've worked to help solve environmental problems and provide professional maps to a variety of nonprofit, government, and private organizations. When not mapping our planet and analyzing the question where, I can be found enjoying the outdoors, rooting on my Wisconsin sports teams, and playing bluegrass music."
 
 	#	[[params.about.skills]]
 	#		name = "Communication"
