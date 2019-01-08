@@ -28,7 +28,7 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/work/proj-1/</guid>
-      <description>Maps for my time working at the Midpeninsula Regional Open Space District.</description>
+      <description>Maps for my time working at the Midpeninsula Regional Open Space District. </description>
     </item>
     
     <item>
@@ -37,7 +37,8 @@ summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 2
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/work/proj-2/</guid>
-      <description></description>
+      <description>Top 25 Open Space Projects Story Map created as parat of the Measure AA Ballot Measure Campaign
+Resume Story Map</description>
     </item>
     
     <item>
