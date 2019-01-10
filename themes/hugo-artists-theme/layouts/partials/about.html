@@ -1,13 +1,12 @@
 {{ "<!-- About section -->" | safeHTML }}
 <section>
     {{ with .Site.Params.about.title }}<h3 id="about-me">{{ . }}</h3>{{ end }}
-
     <div class="face-lockup">
         <div class="face-img"></div>
-        <div class="icon-pencil">
+         
+       <div class="icon-pencil">
             {{ partial "icons/icon-pencil.html"}}
         </div>
-
         <div class="icon-browser">
             {{ partial "icons/icon-browser.html"}}
         </div>
